@@ -74,4 +74,7 @@ Built with Python and Pygame.
 AI tools were used during development for part of the coding and debugging. 
 The project design, biological questions, testing, and changes to the simulation were developed 
 entireley with my own experimentation and decisions as well as research and personal interest on the subject.
-Sources: American cancer society, Pubmed, National cancer institute
+
+## Sources
+
+American Cancer Society, PubMed, National Cancer Institute, my high school biology teachers.
