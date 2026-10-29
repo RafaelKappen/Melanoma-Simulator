@@ -14,6 +14,20 @@ The simulator includes:
 - blood vessel contact
 - clone identity information
 
+##screenshots
+
+<img width="1627" height="814" alt="Screenshot 2026-10-29 at 7 20 35 AM" src="https://github.com/user-attachments/assets/0815ffbf-86ae-401f-8fe4-1dc4ff012ea3" />
+
+##magnified cross section of skin
+
+<img width="398" height="504" alt="Screenshot 2026-10-29 at 7 21 35 AM" src="https://github.com/user-attachments/assets/9df3f819-68e3-4767-a568-59dafc0bad53" />
+
+##clone identity card
+
+<img width="365" height="315" alt="Screenshot 2026-10-29 at 7 20 49 AM" src="https://github.com/user-attachments/assets/f238b45d-88da-4898-b761-4fb9b7b15693" />
+
+
+
 ## Controls
 
 - `SPACE` = pause / resume
