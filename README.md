@@ -77,4 +77,4 @@ entireley with my own experimentation and decisions as well as research and pers
 
 ## Sources
 
-American Cancer Society, PubMed, National Cancer Institute, my high school biology teachers.
+American Cancer Society, PubMed, National Cancer Institute.
